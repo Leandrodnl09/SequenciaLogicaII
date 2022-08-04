@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\bin\Debug\net6.0\SequenciaLogicaII.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\bin\Debug\net6.0\SequenciaLogicaII.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\bin\Debug\net6.0\SequenciaLogicaII.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\bin\Debug\net6.0\SequenciaLogicaII.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\bin\Debug\net6.0\SequenciaLogicaII.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\refint\SequenciaLogicaII.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\SequenciaLogicaII.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequenciaLogicaII\obj\Debug\net6.0\ref\SequenciaLogicaII.dll
